@@ -1,0 +1,17 @@
+{
+  "name": "track-ai-visits",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongodb": "^6.13.0",
+    "mongoose": "^7.6.1"
+  }
+}
